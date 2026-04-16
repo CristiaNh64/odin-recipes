@@ -4,4 +4,4 @@ Welcome to the Odin Recipes project! This repository contains a collection of re
 
 # Live Preview
 
-https://github.com/CristiaNh64/odin-recipes.git
+https://cristianh64.github.io/odin-recipes/
